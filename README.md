@@ -6,3 +6,4 @@ My Kaggle Projects
 * Medical Cost EDA & OLS Regression
 * Simple K-Means-PCA-Hierarchical-Clustering-USArrest Data
 * İstanbul Airbnb Visualization with Folium
+* Hearth Disease Prediction-Logistic Regression/SHAP/PDP
