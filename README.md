@@ -8,4 +8,5 @@ My Kaggle Projects
 * İstanbul Airbnb Visualization with Folium
 * Hearth Disease Prediction-Logistic Regression/SHAP/PDP
 * Income Census Data Classification XGBoost,LGBM,HGB
+* Telco Churn Analysis-Classification
 
