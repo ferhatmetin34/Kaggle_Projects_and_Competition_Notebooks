@@ -9,4 +9,5 @@ My Kaggle Projects
 * Hearth Disease Prediction-Logistic Regression/SHAP/PDP
 * Income Census Data Classification XGBoost,LGBM,HGB
 * Telco Churn Analysis-Classification
+* İş Bankası ML Challenge 2 #6
 
