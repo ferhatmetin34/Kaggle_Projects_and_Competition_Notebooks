@@ -1,7 +1,8 @@
 # My_Kaggle_Projects
 My Kaggle Projects
 --> This notebooks include my some Kaggle projects.
-* İş Bankası ML Challenge 2 - Kaggle Competition #6
+* İş Bankası ML Challenge 2 - Kaggle Competition 
+* İş Bankası ML Challenge 3 - Kaggle Competition
 * Garanti Bankası ML Challenge - Kaggle Competition
 * House Price Prediction in King Country- Gradient Boosting Algorithms
 * IBM HR Analytics-Undersampling/Oversampling-Prediction
