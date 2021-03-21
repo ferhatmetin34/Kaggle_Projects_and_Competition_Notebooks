@@ -4,6 +4,7 @@ My Kaggle Projects
 * İş Bankası ML Challenge 2 - Kaggle Competition 
 * İş Bankası ML Challenge 3 - Kaggle Competition
 * Garanti Bankası ML Challenge - Kaggle Competition
+* Eczacıbaşı ML Challenge - Kaggle Competition
 * House Price Prediction in King Country- Gradient Boosting Algorithms
 * IBM HR Analytics-Undersampling/Oversampling-Prediction
 * Medical Cost EDA & OLS Regression
