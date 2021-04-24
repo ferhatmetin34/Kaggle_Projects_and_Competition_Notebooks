@@ -1,4 +1,7 @@
-# My_Kaggle_Projects
+# My Kaggle Projects
+
+[Click to see my Kaggle account](https://www.kaggle.com/ferhatmetin34)
+
 My Kaggle Projects
 --> This notebooks include my some Kaggle projects.
 * İş Bankası ML Challenge 2 - Kaggle Competition 
