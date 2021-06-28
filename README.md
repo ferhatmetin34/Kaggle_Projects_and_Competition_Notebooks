@@ -17,4 +17,5 @@ My Kaggle Projects
 * Income Census Data Classification XGBoost,LGBM,HGB
 * Telco Churn Analysis-Classification
 * İkitelli Solar Power Electricity Production Forecasting-LGBM
+* Zeki Müren Lyrics Generator with LSTM
 
