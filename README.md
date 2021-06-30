@@ -18,4 +18,5 @@ My Kaggle Projects
 * Telco Churn Analysis-Classification
 * İkitelli Solar Power Electricity Production Forecasting-LGBM
 * Zeki Müren Lyrics Generator with LSTM
+* Electric Price Prediction-Time Series LightGBM
 
